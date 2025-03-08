@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bonus
+  - Gem
+  - Enemy
+  - Key
+  - Heart
+  - FallLevel
+  - MovingPlatform
+  - CurrentPlayerScoreValue
+  - Green key
+  - Yellow key
+  - BouncePlatform
+  - Red key
+  - Trap
+  - Checkpoint
+  - Pop-up frog
+  - Pop-up eagle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3689508491
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3091805093
+    locked: 0
+  - name: Props
+    uniqueID: 4248254703
+    locked: 0
+  - name: Platforms
+    uniqueID: 918249511
+    locked: 0
+  - name: Decorations
+    uniqueID: 2335249809
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player and Enemies
+    uniqueID: 3761031883
+    locked: 0
+  - name: Foreground
+    uniqueID: 3215341145
+    locked: 0
